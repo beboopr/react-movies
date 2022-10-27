@@ -1,5 +1,11 @@
 # React Movies
 
+Happy Halloween! 🎃
+
+see a demo at [https://horror-movies-ed.web.app](https://horror-movies-ed.web.app)
+
+## To run locally 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
